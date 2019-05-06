@@ -1,0 +1,97 @@
+---
+layout: default
+title: Home
+---
+
+<style type="text/css">
+<!--
+ .tab { margin-left: 40px; }
+-->
+</style>
+
+
+<p>
+  <img src="/images/Agrusa_Harrison_square.jpg" style="float:left;margin:0 1em 0 0" title="Photo of Harrison" height="250" width="250" />
+</p>
+
+<p>
+I am a second-year graduate student in the <a href="http://www.astro.umd.edu/">Astronomy</a> department at the University of Maryland, College Park. My research focuses on computational astrophysics, orbital dynamics, and planetary defense. I am currently working on NASA's <a href="http://dart.jhuapl.edu/">DART</a> mission, the first mission to demonstrate a kinetic impactor for asteroid deflection.
+</p>
+
+<h2 id="contact">Contact Me</h2>
+<b>Email:</b>
+<p class="tab">
+hagrusa at astro.umd.edu 
+</p>
+
+
+<b>Office:</b>
+<p class="tab">
+Department of Astronomy<br>
+Physical Science Complex (PSC), Room 1238<br>
+4296 Stadium Dr.<br>
+University of Maryland<br>
+College Park, MD 20740 <br>
+</p>
+
+
+
+
+
+
+<!--
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+-->
+
+<!--
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+-->
+
+<!--
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+-->

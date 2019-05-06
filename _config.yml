@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Harrison Agrusa
+tagline:          'Welcome!'
+description:      
+url:              hagrusa.github.io
+baseurl:          /
+
+author:
+  name:           'Harrison Agrusa'
+  url:            
+
+paginate:         5
+paginate_path: "page:num"
+
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/hagrusa
+
+plugins:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
