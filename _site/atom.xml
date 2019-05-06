@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Harrison Agrusa</title>
- <link href="hagrusa.github.io/atom.xml" rel="self"/>
- <link href="hagrusa.github.io/"/>
- <updated>2019-05-06T10:07:18-04:00</updated>
- <id>hagrusa.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-05-06T10:35:03-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Harrison Agrusa</name>
    <email></email>
