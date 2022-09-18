@@ -32,6 +32,8 @@ Here's an old gif where we simulated the Didymos system using pkdgrav, a paralle
 Here's a movie where we simulate the dynamical evolution of the Didymos system following a DART-like impact. This animation shows the secondary component (Dimorphos) librating now that its orbit has become eccentric. Near the 1 minute mark, you can see Dimorphos become attitude unstable. The attitude stability properties are highly dependent on its shape and the magnitude of the perturbation provided by DART. We studied Dimorphos' post-impact attitude stability in-depth in this [paper](https://ui.adsabs.harvard.edu/abs/2021Icar..37014624A/abstract) if you want to learn more!
 <iframe width="1120" height="630" src="https://www.youtube.com/embed/ZkdqxPbH5Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Here is a newer animation showing this same effect in an inertial frame:
+<iframe width="1120" height="630" src="https://www.youtube.com/watch?v=GYFmhL8I8OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})  -->
 

@@ -5,9 +5,9 @@ permalink: /
 ---
 
 <!-- {% include image.html url="images/HarrisonAgrusaPhoto.png" caption="" max_width="200px" align="right" %} -->
-<img src="images/HarrisonAgrusaPhoto.jpg" alt="drawing" width="300" align="right"/>
+<img src="images/hagrusa_heraMeeting.jpeg" alt="drawing" width="300" align="right"/>
 
-I am a 5th year Astronomy Ph.D. student at the [University of Maryland](https://www.astro.umd.edu/). Most of my research is focused on modeling the dynamics of the binary asteroid Didymos in support of NASA’s Double Asteroid Redirection Test ([DART](https://dart.jhuapl.edu/)) Mission. However, I am also broadly interested in solar system dynamics, planetary defense, and scientific computing. You can download my CV [here](pdfs/agrusa_CV_aug2022.pdf).
+I am an astrophysicist and planetary scientist broadly interested in solar system dynamics and scientific computing. I recently received my Ph.D. from the [University of Maryland](https://www.astro.umd.edu/) where most of my research has focused on the dynamics of the binary asteroid Didymos in support of NASA’s Double Asteroid Redirection Test ([DART](https://dart.jhuapl.edu/)) Mission. You can download my CV [here](pdfs/agrusa_CV_aug2022.pdf).
 
 
 ## Contact
