@@ -1,17 +1,16 @@
-# Much-Worse jekyll theme
+# Biscuit theme for Jekyll
 
-This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
+[Biscuit](http://sblisesivdin.github.io/biscuit) is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
 
-This is a modified version of [Steve Miller's NGVM theme](http://jekyllthemes.org/themes/svm-ngvb/). Since this work is a derivative of Prof. Miller's, therefore it is only fair that I honour his self-deprecating spirit and name this **much-worse**. I prefer large seriff fonts and minimal coloring and styling. Apart form the typography, color scheme and layout,
-this theme has two useful changes:
+## Usage
 
-- It allows you to maintain your website as a subdirectory on your university of company domain (e.g. http://university.edu/department/people/your-website). Most Jekyll blogs are
-designed to be hosted at custom domain names.
+You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
+For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
 
-- Most jekyll themes are blog-centric, or single page websites. This theme lets you create multi-page website with a blog if you want.
+If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc, just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
 
-Both the above are not seminal achievements in science, but they are useful. This theme also supports site analytics including [Statcounter](http://statcounter.com) and major comment providers for blogs.
+## License
 
-See it in action [here](http://people.csail.mit.edu/gchauras).
+Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
 
-Feel free to send me pull requests with better responsive performance or cleaner HTML/CSS.
+Biscuit and [the previous code](http://github.com/chibicode/solo) where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
